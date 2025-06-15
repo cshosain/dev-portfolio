@@ -7,7 +7,7 @@ This site showcases my skills, projects, and services as a Fullstack MERN Develo
 
 ## 🚀 Live Demo
 
-[Visit My Portfolio](https://devportfolio.hosain.com)
+[Visit My Portfolio](https://cshosain.github.io/dev-portfolio/)
 
 ---
 
